@@ -59,29 +59,11 @@ Summarized by location
 Summarized by movies
 Configure discount prices for shows before 6pm and for Tuesday shows
 
-## UI Wireframes
 
-![HomePage.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/HomePage.png)
-![AdminPage.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/AdminPage.png)
-![Login.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/Login.png)
-![Registration.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/Registration.png)
-![MovieList.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/MovieList.png)
-![SeatSelection.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/SeatSelection.png)
-![PremiumPayment.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/PremiumPayment.png)
-![MovieBookingPayment.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/MovieBookingPayment.png)
-![TicketBooked.png](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/Wireframes/TicketBooked.png)
-
-## Sprint BurnDown Chart
-
-[SprintTaskSheetandburndown_CodeHeist.xlsx](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/SprintScrumUpdates/SprintTaskSheetandburndown_CodeHeist.xlsx)
-
-## Daily Scrum Sheet
-
-[Sprint Task Sheet and burndown strawhats.xlsx](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/SprintScrumUpdates/SprintTaskSheetandburndown_CodeHeist.xlsx)
 
 ## Steps to run the application
 
-1. git clone [repo](https://github.com/gopinathsjsu/.git)
+1. git clone repo_link
 2. Install dependencies for both frontend and backend npm install `npm install`
 3. Create .env file at /server :
 
