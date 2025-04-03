@@ -1,22 +1,4 @@
-# New Project Start
-
 # MovieTheater Application - SMC Movies
-
-## TEAM NAME - Team10
-
-| TEAM                     | SJSU ID   |
-| ------------------------ | --------- |
-| Sri Charan Reddy Mallu   | 017419779 |
-| Siva Swaroop Vardhineedi | 016835312 |
-| Mahek Virani             | 017446936 |
-
-## Team Members and Contribution gist:
-
-| TEAM                  | Contribution                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Siva Swaroop Vardhineedi | Scrum Master, Front end and Backend API implementation - Designed and configured MongoDB models, cinemaController logic, worked on cinema route module,worked on Admin Route for client logic, Designed and worked on Home, Register, Purchase front-end client webpages, developed Navbar, TheatreListByMovie, CinemaLists, DateSelector React Components, loadbalancer                                                                           
-|Sri Charan Reddy Mallu | Front end and Backend API implementation - authController & theaterController logic, worked on auth route & theater module, Developed Auth Context, Designed and worked on Tickets, Analytics, Login front-end client webpages, developed MovieLists, NowShowing, ShowtimeDetails, Showtimes React Components, AWS deployment and Autoscaling in EC2 instanceseveloped SelectedMovie, Seat configurations, ScheduleTable, Loading React Components |
-| Mahek Virani          | Front end and Backend API implementation - movieController logic, worked on movie route module, Developed Location Context, Designed and worked on Movie, Showtime, Cinema front-end client webpages, developed Theater, TheaterListsByCinema, UpcomingMovies React Components ,Configured showtime component for admin users, worked on showtime route module, Designed and worked on User front-end client webpages,Black box Testing            |
 
 ## Tech stack
 
@@ -46,22 +28,6 @@ REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, PostgreSQL
 - **Feedback** <br> Through a consistent exchange of feedback, we gained valuable insights, adapted to evolving circumstances, and prevented the recurrence of mistakes, ultimately improving our productivity. Throughout the development journey, we initiated pull requests and deposited our modifications in a separate branch. These adjustments were only integrated into the main branch after securing approval from a fellow team member.
 
 - **Simplicity** <br> Simplicity was a key focus in our approach. We emphasized the adoption of straightforward and efficient solutions. Our code was architected with modularity and reusability in mind, guaranteeing that it remains accessible and adaptable for any future team members. We took care to minimize any code inconsistencies, and we incorporated meaningful comments to enhance code comprehension.
-
-## Architecture Diagram
-
-![Architecture.jpeg](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/images/Architecture.jpeg)
-
-## Deployment Diagram
-
-![Deployment.jpeg](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/images/Deployment.jpeg)
-
-## UML Diagram
-
-![UML.jpeg](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/images/UML.jpeg)
-
-## Component Diagram
-
-![Component.jpeg](https://github.com/gopinathsjsu/team-project-codeheist/blob/main/images/Component.jpeg)
 
 # Feature Set
 
